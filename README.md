@@ -1,4 +1,4 @@
-# Predicting Housing Prices in King County, USA with Deep Learning and Machine Learning
+# Predicting Housing Prices in King County, USA using Machine Learning and Deep Learning
 
 ## Overview
 The project aims to predict prices based on data (square feet living, number of rooms, building age etc.) on houses in King County. Predictions were made using regression models and tensorflow. 
